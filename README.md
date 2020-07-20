@@ -12,6 +12,6 @@ go run main.go ./example.json
 
 Accepts a single argument that is the file path for the json file you wish to convert
 
-##Future:
+## Future:
 
 - Convert csv back to json.
