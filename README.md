@@ -10,8 +10,6 @@ go run main.go ./example.json
 
 **Arguments**
 
-Accepts a single argument that is the file path for the json file you wish to convert
+Accepts a single argument that is the file path for the json/csv file you wish to convert. CSV's are expected to be pipe separated values.
 
-## Future:
-
-- Convert csv back to json.
+If a CSV is supplied it will output json and vice versa.
